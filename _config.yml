@@ -3,4 +3,4 @@ markdown: kramdown
 remote_theme: pages-themes/leap-day@v0.2.0
 title: [Tradukoj]
 description: [Miaj tradukoj]
-show_downloads: [true]
+show_downloads: [false]
