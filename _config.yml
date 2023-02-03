@@ -1,2 +1,6 @@
 # Buid settings
-theme: minima
+markdown: kramdown
+theme: leap-day
+title: [Tradukoj]
+description: [Miaj tradukoj]
+show_downloads: [false]
