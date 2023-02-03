@@ -1,6 +1,6 @@
 # Buid settings
 markdown: kramdown
-theme: leap-day
+remote_theme: pages-themes/leap-day@v0.2.0
 title: [Tradukoj]
 description: [Miaj tradukoj]
 show_downloads: [false]
